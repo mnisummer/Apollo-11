@@ -1,5 +1,8 @@
 # Аполлон-11
 [![NASA][1]][2]
+[![SWH]][SWH_URL]
+[![Comanche]][ComancheMilestone]
+[![Luminary]][LuminaryMilestone]
 
 :crossed_flags:
 [Bahasa Indonesia][ID],
@@ -9,30 +12,48 @@
 [Español][ES],
 [Français][FR],
 [Italiano][IT],
+[Nederlands][NL],
+[Polski][PL],
 [Português][PT_BR],
-**Русский**
+[Română][RO],
+[Tiếng Việt][VI],
+[Türkçe][TR],
+**Русский**,
 [العربية][AR],
+[فارسی][FA],
 [हिंदी][HI_IN],
+[বাংলা][BD_BN],
+[မြန်မာ][MM],
+[日本][JA],
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
 [한국어][KO_KR]
 
 [AR]:README.ar.md
-[ID]:README.id.md
+[BD_BN]:README.bd_bn.md
 [CA]:README.ca.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
-[IT]:README.it.md
+[FA]:README.fa.md
 [FR]:README.fr.md
-[PT_BR]:README.pt_br.md
-[ZH_TW]:README.zh_tw.md
-[ZH_CN]:README.zh_cn.md
-[KO_KR]:README.ko_kr.md
 [HI_IN]:README.hi_in.md
+[ID]:README.id.md
+[IT]:README.it.md
+[JA]:README.ja.md
+[KO_KR]:README.ko_kr.md
+[MM]:README.mm.md
+[PL]:README.pl.md
+[PT_BR]:README.pt_br.md
+[RO]:README.ro.md
 [RU]:README.ru.md
+[TR]:README.tr.md
+[VI]:README.vi.md
+[ZH_CN]:README.zh_cn.md
+[ZH_TW]:README.zh_tw.md
+[NL]:README.nl.md
 
-Оригинальный исходный код бортового управляющего компьютера Аполлон 11 (AGC) для коммандного модуля (Comanche055) и лунного модуля (Luminary099).
+Оригинальный исходный код бортового управляющего компьютера Аполлон 11 (AGC) для командного модуля (Comanche055) и лунного модуля (Luminary099).
 Оцифровано людьми из [Virtual AGC][3] и [MIT Museum][4]. Цель - это создание репозитория с оригинальным исходным кодом миссии Аполлон 11.
 Таким образом приветствуются pull requests (PRs) с исправлениями для любых найденных ошибок в файлах этого репозитория и оригинальных сканах исходного кода для [Luminary 099][5] и [Comanche 055][6], так же как и для любых файлов, которые я мог пропустить.
 
@@ -69,7 +90,7 @@ Margaret H. Hamilton  | Ведущий программист Colossus<br>Упр
 :----------------- | :--- | :---
 Daniel J. Lickly   | Директор, Разработка программы миссии<br>Программа управления и навигации Аполлона | 28 Март 69
 Fred H. Martin     | Проектный менеджер Colossus<br>Программа управления и навигации Аполлона | 28 Март 69
-Norman E. Sears    | Директор, Разработка миссии<br>Программа управления и навигации Аполлонаm | 28 Март 69
+Norman E. Sears    | Директор, Разработка миссии<br>Программа управления и навигации Аполлона | 28 Март 69
 Richard H. Battin  | Директор, Разработка миссии<br>Программа управления и навигации Аполлона | 28 Март 69
 David G. Hoag      | Директор<br>Программа управления и навигации Аполлона | 28 Март 69
 Ralph R. Ragan     | Заместитель директора<br>Лаборатория приборостроения| 28 Март 69
@@ -83,3 +104,9 @@ Ralph R. Ragan     | Заместитель директора<br>Лаборат
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
 [7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
 [8]:https://github.com/rburkey2005/virtualagc
+[SWH]:https://archive.softwareheritage.org/badge/origin/https://github.com/chrislgarry/Apollo-11/
+[SWH_URL]:https://archive.softwareheritage.org/browse/origin/https://github.com/chrislgarry/Apollo-11/
+[Comanche]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/1
+[ComancheMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/1
+[Luminary]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/2
+[LuminaryMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/2
